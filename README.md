@@ -16,7 +16,7 @@ expanding it into a full playable Blackjack simulation!
    git clone https://github.com/xy-0-lita/Blackjack_Game.git
    cd Blackjack_Game
 
-2. (Opt) Creating Vitural Environment
+2. (Opt) Creating Virtuall Environment
    python -m venv .venv
    source .venv/bin/activate   # macOS/Linux
    .venv\Scripts\activate      # Windows
@@ -39,8 +39,10 @@ expanding it into a full playable Blackjack simulation!
   - Creating a GUI version w/ tkinter or pygame
 
 ## 📸 Gameplay Screenshots
+   Here's a brief look at the game in action:
   - Opening Screen
-
+   ![Start Screen](blackjack_start.png)
   - Gameplay Round
-    
+   ![Player Turn](blackjack_round.png) 
   - Blackjack Win
+   ![Blackjack Round](blackjack_win.png)
